@@ -1,0 +1,9 @@
+/.idea
+/node_modules
+.env
+.env.example
+/logs
+
+
+npm-debug.log
+serviceAccountKey.json
