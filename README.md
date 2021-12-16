@@ -1,4 +1,4 @@
-# asta.mobi-test-task
+# Covid stat
 
 
 ## How to start
